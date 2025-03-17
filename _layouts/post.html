@@ -1,0 +1,64 @@
+{% include header.html %}
+<!--start: Container-->
+<div class="container">
+
+		<!--start: Wrapper-->
+		<div id="wrapper">
+			
+			<!-- start: Page Title -->
+			<div id="page-title">
+
+				<!-- start: Page Title Inner-->
+				<div id="page-title-inner">
+
+						<h2>{{page.title}}</h2>
+
+				</div>	<!-- end: Page Title Inner-->
+
+			</div><!-- end: Page Title -->
+
+<div class="row-fluid"><!-- start: Row-->
+    <div class="span9"> <!-- start: Span 9-->
+    <div class="post post-page"> <!-- start: Post-->
+    <div class="post-img picture"><!-- start: Picture-->
+<img class="centered" border="0" alt="" src="{{ page.cover }}">
+</div><!-- end: Picture-->
+<!-- start: Post content-->
+<div class="info"><!-- start: Info-->
+ <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a><br>
+	<span class="post-date">
+		<span class="day">{{ page.date | date: "%-d" }}</span>
+		<span class="month-year">
+		{% assign m = page.date | date: "%B" %}
+		{% case m %}
+  {% when 'April' or 'May' or 'June' or 'July' %}{{ m }}
+  {% when 'September' %}Sept,
+  {% else %}{{ page.date | date: "%b" }},
+  {% endcase %}
+  {{ page.date | date: "%Y" }}
+
+
+		</span>
+		</span>
+		
+		
+</div>	<!-- end: Info-->
+<div class="post-content">
+        {{ content }}
+          </div><!-- end: Post content-->
+          </div>
+    
+   </div><!-- end: span9-->
+   
+   
+    <div class="span3">
+        {% include sidebar.html %}
+    </div>
+
+</div>
+</div>
+{% include footer.html %}
+
+
+  
+   

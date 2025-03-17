@@ -1,0 +1,22 @@
+---
+title: "KNX Association Response"
+layout: post
+cover: /img/posts/KNX.png
+permalink: knx-response/
+---
+
+In December 2013 I was able to abuse the insecurity of the KNX/IP protocol in a large home automation setting: The St. Regis Hotel in ShenZhen.  The KNX Association **responded to the incident with a brief statement** on their [webpage](http://www.knx.org/knx-en/news/2014/entries/2014-08-08_KNX-Security-Statement.php). The response seems odd, as it is half an apology for being an old standard that failed to keep with the security requirements of a connected world, half defending their security because they provide security through obscurity (ironically, it is supposed to be an "open "standard")
+
+First, quoting the statement
+
+> The cradle of the KNX system lies as far back as the nineties, where security issues were not such a hot topic as they are today. In the recent years, KNX and its members have considerably invested in the improvement of the KNX Standard with data security mechanism, which has materialized in an updated KNX.
+
+As discussed in my talk, **since 2006 researchers pointed out the problem** with a paper called [EIBsec: a security extension to KNX/EIB](https://www.auto.tuwien.ac.at/index.php?option=com_pub&Itemid=80&task=bib&tag=WG2006d). The new standards that added some mysterious security mechanisms appeared in 2013. To add insult to injury, **all the security papers were previously hosted by the KNX association** ([dead link](http://knx.org/media/docs/downloads/05%20-%20KNX%20Partners/03%20-%20Becoming%20a%20KNX%20Scientific%20Partner/2008-11%20Conference/presentations/session2.pdf)) - [Google Scholar](http://scholar.google.com/scholar?hl=en&q=knx+security&btnG=&as_sdt=1%2C14&as_sdtp=) but **since my talk they have disappeared mysteriously**. 
+
+And that is my main problem with KNX: it is a closed, dated protocol, that follows non-transparent rules of operation and costs thousands of dollars just to download, preventing possible improvements by researchers. My suggestion for moving forward: add transparency, in particular if you want to declare yourself as an open standard. **We live in 2014, not 1990**. And to prove my point:
+
+>Also to be borne in mind is the fact that KNX runtime communication makes use of untyped information; this means that without the availability of the project data, address and data information can be seen, but cannot be interpreted. It is therefore not surprising that the researcher had to invest “a couple of days” to “figure out the codes” in the hotel installation. A “passer-by” would have a hard time achieving the same result.
+
+And this statement suggests the **we are secure because we are not transparent** approach, which is exactly the problem I am referring to.
+
+This is not the only building affected by poor security practices, and I point to the lack of transparency of the KNX association as the problem. Note that I tested other buildings and they are also susceptible to attacks. 

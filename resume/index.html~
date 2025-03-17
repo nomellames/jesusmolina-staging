@@ -1,0 +1,107 @@
+---
+title: Resume
+layout: resume
+---
+
+<p>You can download my resume in <a href="Jesus-Molina-CV.pdf">PDF</a> format</p>
+
+					<p>You can also take a look at my work</p>
+
+					<p><a href="#service">Service</a> : <a href="#talks">Talks</a> : <a href="#publications">Publications</a> : <a href="#patents">Patents</a> : <a href="#education">Education</a></p>
+
+					<p>And also check my <a href="http://scholar.google.com/citations?hl=en&amp;user=clxCwC8AAAAJ&amp;view_op=list_works&amp;gmla=AJsN-F5ufl1UNQNY-ss9VxmCJaLMAuusRCxHR1krsfilbRZdZUz2Fna1WF1k9LgfSM_to7YlxKEnvx0mJkeIIsvevSq4pKpbjJ5i8vpMwOKKDk_24fw2Vn-aPDfONuh4RNJuYbQr4KRu">Google Scholar</a> page</p>
+
+					<a name="service"><div class="title"><h3>Service</h3></div></a>
+
+					<ul>
+						<li><p>Co-chair for security at the <a href="http://www.iiconsortium.org/wc-security.htm">Industrial Internet Consortium</a></p></li>
+						<li><p>Contributor to the <a href="https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=tosca">OASIS TOSCA</a> for cloud orchestration</p></li>
+						<li><p>Contributor to the Big Data Working Group at the <a href="https://cloudsecurityalliance.org/">Cloud Security Alliance</a></p></li>
+						<li><p>Contributor and Evaluator of the Open Source <a href="http://deltacloud.apache.org/">DeltaCloud</a> project</p></li>
+						<li><p>Guest editor for the <a href="http://www.computer.org/portal/web/security/home">IEEE Security and privacy</a> special issue <a href="http://www.computer.org/portal/web/computingnow/spcfp1">Development of Authentication Technologies</a> (January/February 2012)</p></li>
+						<li><p><a href="http://www.nsf.gov/">National Science Foundation</a> Panelist</p></li>
+						<li><p>Contributor at <a href="http://dmtf.org/standards/cloud">DMTF</a> Cloud Management Working group</p></li>
+						<li><p>Contributor at the <a href="http://itlaw.wikia.com/wiki/Cyber_Security_Coordination_Task_Group">Cyber Security Coordination Task Force</a> (Now <a href="http://collaborate.nist.gov/twiki-sggrid/bin/view/SmartGrid/CyberSecurityCTG">SGIP-CSWW</a>)</p></li>
+						<li><p>Formed board member and chair at the <a href="http://www.trustedcomputinggroup.org/">Trusted Computing Group</a></p></li>
+					</ul>
+
+
+					<a name="talks"><div class="title"><h3>Recent Talks</h3></div></a>
+
+					<ul>
+						<li><p>Moderator: Securing the Industrial Internet in the Age of IoT: <a href="https://www.youtube.com/watch?v=USlx-RKsAwE">Video</a></p></li>
+						<li><p>Panelist: Securing the Smart Building. COREnet 2014</p></li>
+						<li><p>Speaker at BLACKHAT 2014:  <a href="https://www.blackhat.com/us-14/briefings.html#learn-how-to-control-every-room-at-a-luxury-hotel-remotely-the-dangers-of-insecure-home-automation-deployment">Learn how to control every room at a luxury hotel remotely: the dangers of insecure home automation deployment</a></p></li>
+						<li><p>Speaker at DEFCON 2014:  <a href="https://www.defcon.org/html/defcon-22/dc-22-speakers.html#Molina">Learn how to control every room at a luxury hotel remotely: the dangers of insecure home automation deployment</a></p></li>
+						<li><p>Panelist: DAC 2011 Hackers and Attackers: How Safe is Your Embedded Design?
+						Presented attacks to smart meters </p></li>
+						<li><p>Speaker: <a href="https://cloudsecurityalliance.org/CSA-congress.pdf">Cloud Security Alliance congress 2010</a> Leveraging Trusted Technologies to Secure the Cloud</p></li>
+						<li><p>Speaker: <a href="https://cloudsecurityalliance.org/sc2010.html">Secure Cloud 2010</a> Practical Applications of Trusted Computing in the Cloud</p></li>
+						<li><p>Speaker: <a href="http://www.snia.org/events/storage-developer2011/archives/2010speakers">Storage Developers Conference 2010</a> Designing Secure Storage for the Cloud</p></li>
+					</ul>
+
+
+					<a name="publications"><div class="title"><h3>Publications</h3></div></a>
+
+					<ul>
+						<li><p>Multiple Authors. <em>Industrial Internet Reference Architecture</em>. Industrial Internet Consortium . April 2015 <a href="http://www.iiconsortium.org/IIRA.htm">pdf</a></p></li>
+						<li><p>Multiple Authors. <em>Top 10 Big Data Security and Privacy Challenges</em>. Cloud Security Alliance. November 2012 <a href="https://cloudsecurityalliance.org/research/big-data/?r=22#_downloads">pdf</a></p></li>
+						<li><p>Multiple Authors. <em>Cloud Infrastructure Management Interface (CIMI) Model and REST Interface over HTTP Specification</em>. Distributed Management Task Force. October 2012 <a href="http://dmtf.org/standards/cmwg">pdf</a></p></li>
+						<li><p>Z. Song, J. Molina, and C. Strong. <em>Trusted Anonymous Execution: A Model to Raise Trust in Cloud</em>. In Proceedings of the 2010 Ninth International Conference on Grid and Cloud Computing (GCC '10) <a href="/publications/2010ZXJM.pdf">pdf</a> <a href="/publications/2010ZXJM.txt">bibtex</a></p></li>
+						<li><p>S. Hanna, J. Molina. Cloud Security Questions? . In <a href="http://cloudcomputing.sys-con.com/node/1330353">sys-con</a></p></li>
+						<li><p>Chow, R.; Jakobsson, M.; Niu, Y.; Shi, E.; Molina, J.; Masuoka, R.; Song, Z. <em>Authentication in the clouds: a framework and its application to mobile users</em>. ACM Cloud Computing Security Workshop (CCSW); 2010 <a href="/publications/2010RCMJ.pdf">pdf</a> <a href="/publications/2010RCMJ.txt">bibtex</a></p></li>
+						<li><p>R. Chow, P. Golle, M. Jakobsson, E. Shi, J. Staddon, R. Masuoka, and J. Molina. 2009. <em>Controlling data in the cloud: outsourcing computation without outsourcing control</em>. In Proceedings of the 2009 ACM workshop on Cloud computing security (CCSW '09) <a href="/publications/2009RCPG.pdf">pdf</a> <a href="/publications/2009RCPG.txt">bibtex</a></p></li>
+						<li><p>J. Molina and M. Cukier. 2009. <em>Evaluating Files to Audit for Detecting Intrusions in FileSystem Data</em>. In Proceedings of the 2009 Eighth IEEE International Symposium on Network Computing and Applications (NCA '09) <a href="/">pdf</a> <a href="/">bibtex</a></p></li>
+						<li><p>J. Molina, and M. Cukier. <em>Evaluating Attack Resiliency for Host Intrusion Detection Systems</em>. Journal of Information Assurance and Security, vol. 4, no. 1, March 2009, pp. 1-9 <a href="/publications/2009JMMK.pdf">pdf</a> <a href="/publications/2009JMMK.txt">bibtex</a></p></li>
+						<li><p>Z. Song, J. Molina, S. Lee, H. Lee, S. Kotani, R. Masuoka. <em>TrustCube: An Infrastructure that Builds Trust in Client</em>. Future of Trust in Computing, Berlin, June 2008 <a href="/publications/2008ZSJM.pdf">pdf</a> <a href="/publications/2008ZSJM.txt">bibtex</a></p></li>
+						<li><p>J. Molina, Xavier Chorin, M. Cukier. <em>Filesystem Activity Following a SSH Compromise: An Empirical Study of File Sequences</em>. ICISC 2007: 144-155) </p></li>
+						<li><p>Jesus Molina, Houcheng Li, Sung Lee, Zhexuan Song. <em>A Mobile Trusted Platform Module (mTPM) Architecture</em>, Workshop on Advances in Trusted Computing, Tokyo, November 2006) <a href="/publications/2006JMHL.pdf">pdf</a> <a href="/publications/2006JMHL.txt">bibtex</a></p></li>
+						<li><p>J. Molina. 2007. <em>Evaluating Host Intrusion Detection Systems</em>. Ph.D. Dissertation. University of Maryland at College Park, College Park, MD, USA. Advisor(s) <a href="http://www.enre.umd.edu/faculty/cukier.htm">Michel Cukier</a> <a href="/publications/2007JM.pdf">pdf</a> <a href="/publications/2007JM.txt">bibtex</a></p></li>
+						<li><p>Y. Labrou, J. Agre, Lusheng Ji, J. Molina, W. Chen. <em>Wireless Wallet</em>. Mobile and Ubiquitous Systems, Annual International Conference on, pp. 32-41, First Annual International Conference on Mobile and Ubiquitous Systems: Networking and Services (MobiQuitous'04), 2004) <a href="/publications/2004YLJA.pdf">pdf</a> <a href="/publications/2004YLJA.txt">bibtex</a></p></li>
+						<li><p>N. L. Petroni, J. Molina, T. Fraser, W. A. Arbaugh. <em>Copilot: A Coprocessor Based Runtime Integrity Monitor</em>. 13th Usenix Security Symposium 2004) <a href="/publications/2004NPTF.pdf">pdf</a> <a href="/publications/2004NPTF.txt">bibtex</a></p></li>
+						<li><p>J. Molina, W. Arbaugh. <em>Using Independent Auditors as Intrusion Detection Systems</em>. ICICS 2002: 291-302, December 9-12, 2002 Springer) <a href="/publications/2001JM.pdf">pdf</a> </p></li>
+						<li><p>J. Molina. <em>Using Independent Auditors for Intrusion Detection Systems, Master's Thesis</em>. 2001. Advisor <a href="http://www.cs.umd.edu/~waa/UMD/Home.html">William A. Arbaugh</a> <a href="/publications/2001JM.pdf">pdf</a> <a href="/publications/2001JM.txt">bibtex</a></p></li>
+						<li><p>J. Molina <em>Hardware Implementation of an Authentication Protocol Using Kerberos</em>. Senior's Thesis. 1999) pdf <a href="/">bibtex</a></p></li>
+					</ul>
+
+
+					<a name="patents"><div class="title"><h3>Patents</h3></div></a>
+
+					<h3>Granted</h3>
+
+					<ul>
+						<li><p><a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=/netahtml/PTO/search-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=labrou.INNM.&amp;OS=IN/labrou&amp;RS=IN/labrou">Opinion registering application for a universal pervasive transaction framework</a></p></li>
+						<li><p><a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=/netahtml/PTO/search-bool.html&amp;r=3&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=labrou.INNM.&amp;OS=IN/labrou&amp;RS=IN/labrou">Wireless Wallet</a></p></li>
+					</ul>
+
+
+					<h3>Pending</h3>
+
+					<ul>
+						<li><p><a href="http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PG01&amp;s1=Jesus.IN.&amp;s2=molina.IN.&amp;OS=IN/Jesus+AND+IN/molina&amp;RS=IN/Jesus+AND+IN/molina">Method and System for Providing Services</a></p></li>
+						<li><p><a href="http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=2&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PG01&amp;s1=Jesus.IN.&amp;s2=molina.IN.&amp;OS=IN/Jesus+AND+IN/molina&amp;RS=IN/Jesus+AND+IN/molina">Data Protecting Device</a></p></li>
+						<li><p><a href="http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=3&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PG01&amp;s1=Jesus.IN.&amp;s2=molina.IN.&amp;OS=IN/Jesus+AND+IN/molina&amp;RS=IN/Jesus+AND+IN/molina">Method and Apparatus for Sharing Documents</a></p></li>
+						<li><p><a href="http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=4&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PG01&amp;s1=Jesus.IN.&amp;s2=molina.IN.&amp;OS=IN/Jesus+AND+IN/molina&amp;RS=IN/Jesus+AND+IN/molina">Hardware Trust Anchor</a></p></li>
+						<li><p><a href="http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=6&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PG01&amp;s1=Jesus.IN.&amp;s2=molina.IN.&amp;OS=IN/Jesus+AND+IN/molina&amp;RS=IN/Jesus+AND+IN/molina">Method for Checking the Integrity of Large Data Items Rapidly</a></p></li>
+						<li><p><a href="http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=7&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PG01&amp;s1=Jesus.IN.&amp;s2=molina.IN.&amp;OS=IN/Jesus+AND+IN/molina&amp;RS=IN/Jesus+AND+IN/molina">METHOD AND APPARATUS FOR SECURE INFORMATION TRANSFER TO SUPPORT MIGRATION</a></p></li>
+						<li><p><a href="http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=8&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PG01&amp;s1=Jesus.IN.&amp;s2=molina.IN.&amp;OS=IN/Jesus+AND+IN/molina&amp;RS=IN/Jesus+AND+IN/molina">Method and Apparatus for Identity Verification</a></p></li>
+						<li><p><a href="http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=2&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PG01&amp;s1=terriza&amp;s2=molina&amp;OS=terriza+AND+molina&amp;RS=terriza+AND+molina">Method and system for monitoring system memory integrity</a></p></li>
+						<li><p><a href="http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=/netahtml/PTO/srchnum.html&amp;r=1&amp;f=G&amp;l=50&amp;s1=%2220080046898%22.PGNR.&amp;OS=DN/20080046898&amp;RS=DN/20080046898">Method and System for Implementing an External Trusted Platform Module</a></p></li>
+						<li><p><a href="http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=11&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PG01&amp;s1=Jesus.IN.&amp;s2=molina.IN.&amp;OS=IN/Jesus+AND+IN/molina&amp;RS=IN/Jesus+AND+IN/molina">Method and System for Implementing a Mobile Trusted Platform Module </a></p></li>
+						<li><p><a href="http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=3&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PG01&amp;s1=terriza&amp;s2=molina&amp;OS=terriza+AND+molina&amp;RS=terriza+AND+molina">Method, apparatus, and computer program product for enhancing computer network security</a></p></li>
+					</ul>
+
+
+					<a name="education"><div class="title"><h3>Education</h3></div></a>
+
+					<ul>
+						<li><p><a href="http://www.ece.umd.edu/">University of Maryland</a>, College Park, MD. Ph.D. in Electrical Engineering, 2007.    <br/>
+						<em>Dissertation</em>: <a href="/publications/2007JM.pdf">Evaluating Host Intrusion Detection Systems</a>
+						<em>Advisor</em>: <a href="http://www.enre.umd.edu/faculty/cukier.htm">Michel Cukier</a></p></li>
+						<li><p><a href="http://www.ece.umd.edu/">University of Maryland</a>, College Park, MD. M.S. in Electrical Engineering, 2001.     <br/>
+						<em>Dissertation</em>: <a href="/publications/2001JM.pdf">Using Independent Auditors for Intrusion Detection Systems</a>  <br/>
+						<em>Advisor</em>: <a href="http://www.cs.umd.edu/~waa/UMD/Home.html">William A. Arbaugh</a></p></li>
+						<li><p><a href="http://www.upc.edu/">Universitat Politecnica de Catalunya</a>, Spain. Bachelor in Ingenieria de Telecomunicaciones, 1999.      <br/>
+						<em>Dissertation</em>: Hardware Implementation of an Authentication Protocol Using Kerberos     <br/>
+						<em>Advisor</em>: I forgot but a really nice guy</p></li>
+					</ul>

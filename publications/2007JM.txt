@@ -1,0 +1,10 @@
+@phdthesis{Molina:2007:EHI:1414894,
+ author = {Molina, Jesus},
+ advisor = {Cukier, Michel},
+ title = {Evaluating host intrusion detection systems},
+ year = {2007},
+ isbn = {978-0-549-45249-2},
+ note = {AAI3297315},
+ publisher = {University of Maryland at College Park},
+ address = {College Park, MD, USA},
+}

@@ -1,0 +1,10 @@
+set HOME=%USERPROFILE%
+if "%1"=="" goto upload
+call "C:\Program Files (x86)\Git\bin\git.exe" commit -a -m %1
+call "C:\Program Files (x86)\Git\bin\git.exe" push
+
+:upload
+call jekyll build
+echo DONE CREATING SITE
+call synchronize UP www.jesusmolina.com "C:\Users\nomellames\Google Drive\Jesus_jekyll\_site"\*
+echo DONE UPLOADING

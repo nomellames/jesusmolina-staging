@@ -1,0 +1,18 @@
+http://dl.acm.org/citation.cfm?id=1591199
+
+@inproceedings{Molina:2009:EFA:1590957.1591199,
+ author = {Molina, Jesus and Cukier, Michel},
+ title = {Evaluating Files to Audit for Detecting Intrusions in FileSystem Data},
+ booktitle = {Proceedings of the 2009 Eighth IEEE International Symposium on Network Computing and Applications},
+ series = {NCA '09},
+ year = {2009},
+ isbn = {978-0-7695-3698-9},
+ pages = {163--170},
+ numpages = {8},
+ url = {http://dx.doi.org/10.1109/NCA.2009.38},
+ doi = {http://dx.doi.org/10.1109/NCA.2009.38},
+ acmid = {1591199},
+ publisher = {IEEE Computer Society},
+ address = {Washington, DC, USA},
+ keywords = {Intrusion detection systems, empirical analysis, filesystem data, honeypots, attacker behavior, SSH compromise},
+} 

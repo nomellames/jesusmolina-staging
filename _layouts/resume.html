@@ -1,0 +1,28 @@
+{% include header.html %}
+<div class="container">
+
+		<!--start: Wrapper-->
+		<div id="wrapper">
+			
+			<!-- start: Page Title -->
+			<div id="page-title">
+
+				<div id="page-title-inner">
+
+						<h2>{{page.title}}</h2>
+
+				</div>	
+
+			</div>
+
+<div class="row-fluid">
+    <div class="span8">
+        {{ content }}
+    </div>
+    <div class="span4">
+        {% include sidebar-resume.html %}
+    </div>
+
+</div>
+</div>
+{% include footer.html %}

@@ -1,0 +1,7 @@
+#!/bin/bash
+cp index.html resume/index.html #sync resume folder
+cp resume/shortbio.txt _includes/ #sync sidebar bio
+jekyll build
+echo "DONE BUILDING"
+s3cmd sync ./_site/ S3://www.jesusmolina.com
+echo "DONE UPLOADING"
