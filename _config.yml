@@ -1,12 +1,11 @@
-title:    "Jesus Molina"
-author:   Jesus Molina
+title: Jesus Molina Consulting
+description: Security expert in industrial IoT
+url: https://nomellames.github.io
+baseurl: /jesusmolina-staging
+author: Jesus Molina
 email:    contact@jesusmolina.com
 lsi:      false
-highlighter: pygments
+highlighter: rouge
 auto: true
 server: true
 port: 4000
-baseurl:    /
-url: http://www.jesusmolina.com
-markdown: Kramdown 
-url_root: http://www.jesumolina.com
