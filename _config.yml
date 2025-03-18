@@ -4,6 +4,7 @@ url: https://nomellames.github.io
 baseurl: /jesusmolina-staging
 author: Jesus Molina
 email: contact@jesusmolina.com
+version: v1.0.1
 lsi: false
 highlighter: rouge
 auto: true
