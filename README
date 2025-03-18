@@ -1,0 +1,10 @@
+Configuration file: /Users/jesusmolina/Library/CloudStorage/GoogleDrive-nomellames@gmail.com/My Drive/REBRANDING2025/jesusmolina-staging/_config.yml
+Configuration file: /Users/jesusmolina/Library/CloudStorage/GoogleDrive-nomellames@gmail.com/My Drive/REBRANDING2025/jesusmolina-staging/_config_dev.yml
+            Source: /Users/jesusmolina/Library/CloudStorage/GoogleDrive-nomellames@gmail.com/My Drive/REBRANDING2025/jesusmolina-staging
+       Destination: /Users/jesusmolina/Library/CloudStorage/GoogleDrive-nomellames@gmail.com/My Drive/REBRANDING2025/jesusmolina-staging/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.517 seconds.
+ Auto-regeneration: enabled for '/Users/jesusmolina/Library/CloudStorage/GoogleDrive-nomellames@gmail.com/My Drive/REBRANDING2025/jesusmolina-staging'
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.

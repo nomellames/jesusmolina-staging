@@ -3,8 +3,8 @@ description: Security expert in industrial IoT
 url: https://nomellames.github.io
 baseurl: /jesusmolina-staging
 author: Jesus Molina
-email:    contact@jesusmolina.com
-lsi:      false
+email: contact@jesusmolina.com
+lsi: false
 highlighter: rouge
 auto: true
 server: true
